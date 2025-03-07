@@ -1,0 +1,11 @@
+{
+  "name": "oh-plg-notifications",
+  "version": "1.0.0",
+  "intents": [
+    "endpoints"
+  ],
+  "author": "Marc Stirner <marc.stirner@open-haus.io>",
+  "website": "",
+  "description": "",
+  "uuid": "a4cbb9bc-0cef-4fa2-902c-d4dfa3a3f7e7"
+}
